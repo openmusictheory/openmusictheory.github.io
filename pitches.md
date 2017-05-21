@@ -7,7 +7,7 @@ title: Pitches and octave designations
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
 
-![][keyboard]
+<a href="Graphics/keyboardlayout-small.png"><img src="Graphics/keyboardlayout-small.png"></a>
 
 ### Enharmonic equivalence ###
 
@@ -21,15 +21,15 @@ We will follow the International Standards Organization (ISO) system for registe
 
 The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
 
-![][C4toC5]
+<a href="Graphics/C4toC5.png"><img src="Graphics/C4toC5.png"></a>
 
 And a descending scale from middle C contains the following pitch designations: 
 
-![][C4toC3]
+<a href="Graphics/C4toC3.png"><img src="Graphics/C4toC3.png"></a>
 
 Pitches on the alto staff are as follows: 
 
-![][F3toG4]
+<a href="Graphics/F3toG4-alto.png"><img src="Graphics/F3toG4-alto.png"></a>
 
 Pitches on the tenor staff are as follows:
 
@@ -38,8 +38,3 @@ Pitches on the tenor staff are as follows:
 Any accidentals follow the octave designation of the natural pitch with the same generic name. Thus a half step below C4 is C-flat4 (even though it sounds the same as B3), and a half step above C4 is C-sharp4. 
 
 Note that a complete designation contains both the pitch-class name (a letter name plus an optional sharp or flat) and the register (the ISO number indicating the octave in which the pitch is found). Unless both are present, you do not have the full designation of a specific pitch.
-
-[C4toC5]: Graphics/C4toC5.png
-[C4toC3]: Graphics/C4toC3.png
-[F3toG4]: Graphics/F3toG4-alto.png
-[keyboard]: Graphics/keyboardlayout-small.png
