@@ -29,7 +29,7 @@ Following are important terms/concepts associated with continuation function. No
 - *Acceleration of melodic rhythm* – Changing from predominately quarter notes and eighth notes in the melody to predominately eighth notes and sixteenth notes, for example.  
 - *Acceleration of harmonic rhythm* – Chord changes coming more frequently (changing from one chord per bar to two chords per bar, for example).  
 
-#Closing Functions
+# Closing Functions
 
 ## Cadential
 

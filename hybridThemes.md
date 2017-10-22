@@ -43,7 +43,7 @@ Notice that this four-measure phrase does not display any markers of [continuati
 
 
 
-##The Compound Basic Idea
+## The Compound Basic Idea
 
 Just as we sometimes find composers combining different features of the two primary thematic types, we also often find combinations of different types of phrase. The "compound basic idea," or CBI, combines the melodic characteristics of the [antecedent function](themeFunctions.html#antecedent) with the harmonic characteristics of the [presentation](themeFunctions.html#presentation) function. Like an antecedent, it presents a basic idea followed by a contrasting one. But like a presentation, the compound basic idea simply prolongs tonic, without ending in a cadence. 
 

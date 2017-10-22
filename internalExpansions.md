@@ -8,7 +8,7 @@ For many different reasons, a great deal of music written in the late eighteenth
 
 Music in the classical tradition was quite often less subservient to the two- and four-bar units. While this topic has been the subject of a great deal of musical theoretical exploration, here we will concentrate on a simple and common type of *sub-phrase* and *phrase expansion*. 
 
-##Sub-phrase Expansion##
+## Sub-phrase Expansion
 
 When a two-measure basic idea or contrasting idea is expanded, that expansion is often accomplished through motivic repetition within the basic idea: a motive or other small melodic figure is repeated, either exactly or with simple embellishment, causing the overall length of the sub-phrase to be larger than the expected.  
 
@@ -25,7 +25,7 @@ The *contrasting idea* is also three bars long. But in this case, it is *less cl
 
 In other words, [*irregular lengths*](internalExpansions.html#non-standard-lengths) don't always indicate that an expansion has occurred.
 
-##Phrase Expansion##
+## Phrase Expansion
 
 Phrases are often expanded by repetition as well—most often in the concluding portion of a theme as a means to delay cadential arrival.
 		
@@ -51,12 +51,12 @@ In the example above, the cadence in m. 8 gave rise to an expansion because as i
 
 The primary theme of this sonata is a [compound period](compoundPeriod.html#a-compound-period-comprised-of-two-sentences) made from two sentences. Following the half cadence in m. 8, the *large consequent* is expected to conclude with a PAC in m. 16. But the PAC never materializes: the leading tone in m. 15 is not resolved, the pianist's right hand leaps up to A5 instead. The cadence, in other words, is *evaded*. The next four measures (mm. 16–19) are a varied repeat of mm. 13-15, "one more time," culminating in a PAC in m. 19.
 
-##Non-standard Lengths
+## Non-standard Lengths
 We often find expansions in places where the size of a sub-phrase or phrase has been increased. The phrase expansion described above created an 11-bar continuation, for example. But irregular phrase lengths do not necessarily indicate the presence of a phrase expansion. 
 
 For example, listen a few times to the first 30 seconds of the following passage, from Mozart's String Quintet in C major, K. 515. Its main theme is a [compound sentence](compoundSentence.html). The theme's [presentation](themeFunctions.html#presentation) has three basic ideas (at 0:00, 0:09, and 0:16), each of which is constructed as a [compound basic idea](hybridThemes.html#compound-basic-idea)that contains a basic idea followed by a contrasting one:
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0Mkcj2eA2EMqMGfzwCnd0u" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
-   
+
 We hear in this passage that the compound basic ideas are five measures long, each basic idea itself lasting three measures! But *no phrase expansion* has occurred here. The basic idea is simply longer than normal, and perhaps a bit looser feeling as a result. When in doubt, the central question is whether a passage might be recomposed, duple-fied *without* destroying its melodic, harmonic, and motivic structure. If you can, there is a case to be made that an *expansion* is present.
 
