@@ -22,7 +22,7 @@ Here, a one-measure, accompanimental prefix prepares the four-measure antecedent
 
 A suffix prolongs the harmony that closed the theme. Suffixes are described, and given different names, according to what kind of cadence, PAC or HC, ends the theme to which they are attached.
 
-###Closing sections
+### Closing sections
 
 Sometimes called *codettas*, *closing sections* follow themes that end with PACs.
 
@@ -35,7 +35,7 @@ Sometimes called *codettas*, *closing sections* follow themes that end with PACs
 
 The [compound period](compoundPeriod.html) here ends with a PAC in m. 16. Following the cadence, a five-measure *closing section* serves to confirm it. Notice that the melody is centered around scale degree 1—a common feature of these passages—and that harmonically the ii–V-I cadential progression that ended the theme (see m. 15 and 16) is simply repeated.
 
-###Standing on the Dominant
+### Standing on the Dominant
 
 When a *suffix* follows a half cadence, we refer to it as *standing on the dominant*. These passages are often signals for thematic entrances (such as the [second theme](sonataThematicModules.html#subordinate-theme-module) of a sonata form movement) or thematic returns (such as the recapitulation in a [small ternary](smallTernary.html#three-thematic-functions)). 
 

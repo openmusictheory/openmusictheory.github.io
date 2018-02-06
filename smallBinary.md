@@ -13,13 +13,13 @@ Small binaries have two parts, each of which is usually repeated. Unlike the ["r
 </figure> 
 
 
-###First part
+### First part
 Typically constructed as tight-knit [period](period.html), [sentence](sentence.html), or [hybrid](hybridThemes.html), the *first part* ends with cadential articulation in the home key or a closely related one. Because a small binary is often smaller than that of the *small ternary,* it is not uncommon to find a I:HC at the close of the first part.
 
-###Second part
+### Second part
 The *second part* of a small binary quite often begins like a contrasting middle. The material that *follows* the *contrasting middle*, however, is not a *recapitulation*. If it were, the theme would be a [small ternary](smallTernary.html). Rather, this material takes on a variety of guises. Often, it resembles one of the common "after-phrases"--*continuation*, *consequent,* or *cadential.* In the classical style, the second part of a small binary will always close with a I:PAC.
 
-###An example
+### An example
 
 <figure>	
   <img src="/Graphics/form/k305.png">

@@ -9,9 +9,9 @@ Schemata are often give names, sometimes based on descriptions from earlier theo
 
 Schemata have both *internal defining characteristics* and *normative placements* within a series of musical events.  Internal characteristics describe a schema’s (1) melodic features—shown with scale degrees; (2) harmonic features—shown with figured bass, and (3) metric features—indicating whether a “stage” in the schema occurs in a weak or strong metric position. A schema’s normative placement describes it temporal location. For example, an “opening gambit” such as the “Meyer” is associated with the *beginning* of theme, perhaps constituting the whole of the presentation phrase or of a basic idea. A closing “riposte” like the “Prinner” is used as closing gesture.
 
-##Opening Gambits##
+## Opening Gambits
 
-###“The Meyer”###
+### “The Meyer”
 
 [![]({{ site.url }}/Graphics/form/meyer.png)]({{ site.url }}/Graphics/form/meyer.png)
 
@@ -22,9 +22,9 @@ When each sonority receives one “measure” of music, it is commonly found in 
 A fairly exhaustive list of opening schemata can be found on the [Galant schemata – summary](schemataSummary) page. Many of them follow the same general pattern as the Meyer. For example, “The Pastorella,” “The Jupiter,” and “The Aprile,” all prolong tonic by moving away for the two middle stages before a tonic return. Like the Meyer, they are ideal prototypes for the first phrase of an opening theme. As with the Meyer, the bass and harmonic structure are less fixed than is the melody. The two central stages may articulate dominant harmony in all three schemas, and the second stage is also commonly accompanied by predominant harmony.
 
 
-##Closing gestures##
+## Closing gestures
 
-###“The Prinner”###
+### “The Prinner”
 
 [![]({{ site.url }}/Graphics/form/prinner.png)]({{ site.url }}/Graphics/form/prinner.png)
 
@@ -38,7 +38,7 @@ To complete a modulation to the dominant, the Prinner schema can be transposed u
 
 For more continuation/cadential schemata, see the [Galant schemata – summary](schemataSummary) page.
 
-# References #
+# References
 
 Gjerdingen, Robert O. *Music in the Galant Style*. Oxford University Press, 2007.
  
