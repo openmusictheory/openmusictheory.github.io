@@ -17,7 +17,7 @@ A theory of harmonic functions is based on three fundamental principles:
 
 Because [tendency is style-specific](tendency.html), the same chord can have different functions in different musical styles. For instance, the kinds of functions we find in classical music are different from those we find in pop/rock songs from the Billboard charts. And though there are some general harmonic traits that are common to most eighteenth- and nineteenth-century Western composers (what we call the "common practice"), when we look in closer detail, we find some significant differences in the way Bach, Mozart, Brahms, and others compose their harmonic progressions.
 
-Our initial exploration of harmonic functions will engage the general "common practice" that is shared by most eighteenth- and nineteenth-century Western composers. As we explore specific genres, composers, and works within that common practice, we will have opportunity to explore the more nuanced differences between composers, as well as to move beyond common-practice Western art music to include other styles, such as pop/rock.
+Our initial exploration of harmonic functions will engage the general "common practice" that is shared by most eighteenth- and nineteenth-century Western composers. As we explore specific genres, composers, and works within that common practice, we will have opportunities to explore the more nuanced differences between composers, as well as to move beyond common-practice Western art music to include other styles, such as pop/rock.
 
 ## The three common-practice harmonic functions
 
