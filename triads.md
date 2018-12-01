@@ -78,12 +78,12 @@ Following are the qualities and scale-degrees belonging to each triad in every m
 
 -   i: minor – *do*, *me*, *sol*  
 -   ii°: diminished – *re*, *fa*, *le*  
--   III: major – *me*, *sol*, *te*  
+-   III: major – *me*, *sol*, *te*  (III<sup>+</sup>: augmented for harmonic minor)
 -   iv: minor – *fa*, *le*, *do*  
--   V: major – *sol*, *ti*, *re*  
+-   v: minor – *sol*, *te*, *re*  (V: major for harmonic minor)
 -   VI: major – *le*, *do*, *me*  
--   VII: major – *te*, *re*, *fa*  
--   vii°: diminished – *ti*, *re*, *fa*
+-   VII: major – *te*, *re*, *fa*  (vii°: diminished for harmonic minor)
+
 
 ## Building a triad ##
 
