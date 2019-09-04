@@ -67,7 +67,7 @@ upper = \relative c'' {
 		{
 			% enter middle voices (alto & tenor) here
 			c2 b <e, g>1
-			c2 b <e, g>1
+			c'2 b <e, g>1
 			<g c>2~ <g b> <e g>1
 			<g c>2~ <g b> <e g>1
 			<g c>2 <f b> <e g>1
