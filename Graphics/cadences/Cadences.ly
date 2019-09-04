@@ -57,7 +57,7 @@ upper = \relative c'' {
 		{
 			% enter melody here
 			<g d'>1 c
-			e2 d c1
+			<g d'>1 c
 			e2 d c1
 			e2 d c1
 			e2 d c1
@@ -67,9 +67,9 @@ upper = \relative c'' {
 		{
 			% enter middle voices (alto & tenor) here
 			c2 b <e, g>1
+			c'2 b <e, g>1
 			<g c>2~ <g b> <e g>1
 			<g c>2~ <g b> <e g>1
-			<g c>2 <f b> <e g>1
 			<g c>2 <f b> <e g>1
 			<g b>2 <g c> c b <e, g>1
 			}
