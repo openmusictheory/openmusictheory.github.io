@@ -9,13 +9,19 @@ A *cadence* is a point of arrival that punctuates the end of a musical unit, suc
 
 These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a rhythmic phrase ends with the harmonic progression **V<sup>(7)</sup>–I**. If the progression is in root position (*sol* to *do* in the bass voice) and melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence* (**PAC**).
 
-*Imperfect authentic cadences* (**IAC**) lack one or more of the aspects of closure (or finality) in a perfect authentic cadence. If the melody does not end on *do* but the harmonies are in root position, it is called a *root position IAC*. If the harmonies are not in root position it is called an *inverted IAC*. The harmonic progression viiº<sup>6–I, with *ti* to *do* in the melody and *re* to *do* in the bass, is another kind of IAC, sometimes called a "contrapuntal cadence."
+*Imperfect authentic cadences* (**IAC**) lack one or more of the aspects of closure (or finality) in a perfect authentic cadence. If the melody does not end on *do* but the harmonies are in root position, it is called a *root position IAC*. If the harmonies are not in root position it is called an *inverted IAC*. The harmonic progression **viiº</sup>6–I**, with *ti* to *do* in the melody and *re* to *do* in the bass, is another kind of IAC, sometimes called a "contrapuntal cadence."
 
 Phrases that end on **V** without progressing to **I** are called *half cadences*. These cadences typically contain *re* in the melody, though *ti* and *sol* are also possible points of melodic arrival. The **V** arrival of a half cadence is very often a triad, rather than a seventh chord, and it is always in root position.
 
-
 Differentiating between *perfect authentic cadences* (PAC), *imperfect authentic cadences* (IAC), and *half cadences* (HC) by ear and with a score is essential both to formal analysis and model composition.
 
+The cadence types above are based on the propulsive drive of the dominant harmony to its tonic. These cadences are the engines of tonality. In addition to the main cadence types above, the following are also encountered. 
+
+A *plagal cadence* is defined by the progression **IV–I**. It frequently comes after a PAC as a way of counterpoising the dominant preparation of a major structural cadence. After attaining the tonic goal of the PAC, a confirming plagal cadence continues the flatward (counterclockwise) harmonic motion on the circle of fifths, overshooting the goal of the tonic by one position and landing on the subdominant.
+
+A *deceptive cadence* is a would-be authentic cadence in which the expected tonic is missing and another chord substitutes for it. Very frequently the deceptive chord is **vi** in major (**VI** in minor). Other possibilities include **IV** or **viiº7/V**. Frequently, the bass voice, and sometimes also the melody, still arrive to *do* as they would have in a perfect authentic cadence. In that case only the inner voices do not behave as they "should," and this increases the sense of "deception."
+
+An *evaded cadence* is defined by the progression **V**–**V</sup>4</sub>2–I</sub>6**. As such it actually just a type of inverted IAC, but it behaves much like a deceptive cadence and occurs frequently in actual music, which is why it gets its own terminology.
 
 ## Simple, compound, and double cadences
 
