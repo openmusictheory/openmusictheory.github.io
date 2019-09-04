@@ -7,9 +7,12 @@ A *cadence* is a point of arrival that punctuates the end of a musical unit, suc
 
 ## Authentic and half cadences
 
-These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a formal unit ends with the progression **D5–T1** (**V<sup>(7)</sup>–I**, *sol* to *do* in the bass voice). If the melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence*; it the melody ends on *mi* or *me* (or more rarely *sol*), it is called an *imperfect authentic cadence*.
+These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a rhythmic phrase ends with the harmonic progression **V<sup>(7)</sup>–I**. If the progression is in root position (*sol* to *do* in the bass voice) and melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence* (**PAC**).
 
-Phrases that end on **V** without progressing to **I** are called *half cadences*. These cadences typically contain *re* in the melody, though *ti* and *sol* are also possible points of melodic arrival. The **V** is almost invariably a triad, rather than a seventh chord, and it is always in root position (**D5**).
+*Imperfect authentic cadences* (**IAC**) lack one or more of the aspects of closure (or finality) in a perfect authentic cadence. If the melody does not end on *do* but the harmonies are in root position, it is called a *root position IAC*. If the harmonies are not in root position it is called an *inverted IAC*. The harmonic progression viiº<sup>6–I, with *ti* to *do* in the melody and *re* to *do* in the bass, is another kind of IAC, sometimes called a "contrapuntal cadence."
+
+Phrases that end on **V** without progressing to **I** are called *half cadences*. These cadences typically contain *re* in the melody, though *ti* and *sol* are also possible points of melodic arrival. The **V** arrival of a half cadence is very often a triad, rather than a seventh chord, and it is always in root position.
+
 
 Differentiating between *perfect authentic cadences* (PAC), *imperfect authentic cadences* (IAC), and *half cadences* (HC) by ear and with a score is essential both to formal analysis and model composition.
 
