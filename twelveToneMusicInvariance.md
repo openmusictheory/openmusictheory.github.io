@@ -15,7 +15,7 @@ When a pitch-class segment of a row is unchanged when that row is transformed, w
 
 [![]({{ site.url }}/Graphics/postTonal/invariance.png)]({{ site.url }}/Graphics/postTonal/invariance.png)
 
-The brackets show the [discrete tetrachords](twelveToneMusicDerivation.html) of the row. Notice that these tetrachords are the *same* amongst the to different rows. That is, the tetrachords are *invariant segments.* These segments are held invariant because of they share the same *relationship* with one another that the rows share. Because the tetrachords are related by _T8_, when the row _as a whole_ is transposed by _T8_, those tetrachords are "held invariant." (Think of the process like this: when the first tetrachord [6789] is transposed by _T8_, it becomes the last tetrachord [2345]. And therefore, when the whole row is transposed by _T8, _the last tetrachord _becomes_ the first tetrachord.)
+The brackets show the [discrete tetrachords](twelveToneMusicDerivation.html) of the row. Notice that these tetrachords are the *same* amongst the to different rows. That is, the tetrachords are *invariant segments.* These segments are held invariant because of they share the same *relationship* with one another that the rows share. Because the tetrachords are related by _T8_, when the row _as a whole_ is transposed by _T8_, those tetrachords are "held invariant." (Think of the process like this: when the first tetrachord [6789] is transposed by _T8_, it becomes the last tetrachord [2345]. And therefore, when the whole row is transposed by _T8_, the last tetrachord _becomes_ the first tetrachord.)
 
 To determine when and if a pitch-class segment of a row will be held invariant:
 
