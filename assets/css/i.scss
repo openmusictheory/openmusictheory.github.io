@@ -1,6 +1,4 @@
----
----
-
+--- ---
 /* ==========================================================================
    Imports
    ========================================================================== */
@@ -11,6 +9,47 @@
 @import "grid";
 @import "type";
 @import "styles";
-
 // Remove the definition below for a pixel-based layout
 $total-width: 100%;
+@media print {
+    section.article {
+        margin-bottom: 0px;
+    }
+    article.wrap.post header {
+        margin: 0;
+    }
+    article.wrap.post p.date {
+        display: none;
+        visibility: hidden;
+    }
+    article.wrap.post p.intro {
+        display: none;
+        visibility: hidden;
+    }
+    header.site-header {
+        display: none;
+        visibility: hidden;
+    }
+    section.article div.overlay {
+        display: none;
+        visibility: hidden;
+    }
+    div.featured-image {
+        display: none;
+        visibility: hidden;
+    }
+    article.post.wrap {
+        min-width: 0px;
+        margin: 0 1em;
+        width: 100%;
+        max-width: 95%;
+    }
+    .post a.share {
+        display: none;
+        visibility: hidden;
+    }
+    footer {
+        display: none;
+        visibility: hidden;
+    }
+}
